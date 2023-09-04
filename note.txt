@@ -1,0 +1,13 @@
+Chapter 2
+
+Essence and Definition of Software:Product and Medium of Product, Information Transformation
+
+Definition of Software: The key lies in its comparison with hardware. Software is a logical system element that does not wear out.
+
+Software Process: Collection of activities, actions, and tasks, where these three are hierarchically inclusive. The process can be roughly understood as a series of activities composed of a series of actions, which in turn are composed of a series of tasks.
+
+Process Framework: The framework of a process consists of framework activities and generic activities, which are applicable to every process.
+
+Process Flow: The sequential execution of a process, organizing activities, actions, and tasks over time.
+
+Process Model: A composition of software processes/process elements and process flows.
