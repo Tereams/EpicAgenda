@@ -11,3 +11,8 @@ Anyone is welcome to contribute to the development of the project.
 
 ## September 4, 2023
 Read the content of Chapter 2 in the book and update the notes.
+
+
+## Sept 15 2024
+Restart the project after a year
+
